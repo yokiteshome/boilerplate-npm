@@ -12,5 +12,14 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "author": "Yordanos Teshome",
-  "description": "A boilerplate for learning how to use npm and package.json by Free Code Camp"
+  "description": "A boilerplate for learning how to use npm and package.json by Free Code Camp",
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "npm",
+    "package.json",
+    "boilerplate",
+    "backend",
+    "express"
+  ]
 }
